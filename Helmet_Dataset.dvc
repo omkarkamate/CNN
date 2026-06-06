@@ -1,0 +1,6 @@
+outs:
+- md5: 42fb3441ce99a58c2fb928aa03c7ab68.dir
+  size: 2545145505
+  nfiles: 665
+  hash: md5
+  path: Helmet_Dataset
