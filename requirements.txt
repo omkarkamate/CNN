@@ -1,6 +1,7 @@
-python
+
 pandas
 numpy
-keras
 tensorflow
-cv2
+opencv-python
+scikit-learn
+keras
